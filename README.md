@@ -1,5 +1,5 @@
 <a href="#">
-  <img height=300 width= 815 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristopher8049&theme=github_dark"/>
+  <img height=300 width= 810 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristopher8049&theme=github_dark"/>
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cristopher8049&theme=github_dark"/>
